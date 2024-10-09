@@ -49,7 +49,7 @@ syn keyword pythonStatement	touch protected temp wrapper
 syn keyword pythonStatement	dynamic ancient directory
 syn keyword pythonStatement	input output params message shadow
 syn keyword pythonStatement	threads resources priority
-syn keyword pythonStatement	version run shell benchmark snakefile log script conda
+syn keyword pythonStatement	version run shell benchmark snakefile log script conda container
 syn keyword pythonStatement	rule subworkflow checkpoint nextgroup=pythonFunction skipwhite
 
 " Similar to special def and class treatment from python.vim, except
